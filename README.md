@@ -2,7 +2,7 @@
 
 <h2 align="center">a seasoned data professional with over 15 years of experience across various roles in the data landscape.</h2>
 
-<img align="right" alt= "meme" height="500" width="500" src="https://github.com/lokeshshah123/lokeshshah123/blob/c9439551af02822db79ad441b2bf2df5e7599f63/Assets/LokeshShah.jpeg">
+<img align="right" alt= "meme" height="500" width="500" src="https://github.com/lokeshkshah/lokeshkshah/blob/c9439551af02822db79ad441b2bf2df5e7599f63/Assets/LokeshShah.jpeg">
 
 <h4 align="left">I've spearheaded numerous projects in various data management areas, working with global and multilingual data. These projects have not only generated significant cost savings for enterprises but have also garnered recognition at both internal and global platforms.</h4>
 <h4 align="left">Throughout my career, I've specialized in Data Quality, Integration, Governance, and Master Data Management across industries such as Telecom, Insurance, Retail, Manufacturing, and Oil & Gas, leveraging my expertise to drive impactful solutions tailored to the unique challenges of each domain. I've demonstrated a knack for translating complex data challenges into actionable strategies that yield tangible results </h4>
@@ -10,14 +10,14 @@
 <h4 align="left">My philosophy revolves around delivering optimum solutions with tangible results. I firmly believe in the "3C's of life": "You must make a choice to take a chance, or your life will never change." Moreover, I adhere to the principle that "Any data strategy without a business objective is just a dream!!!"
 With expertise in Data Integration, Data Quality, and Master Data using tools like Informatica, along with proficiency in SQL, Python, Spark, Airflow, Delta Lake, Databricks, Apache Kafka, and various databases, I ensure that data initiatives are aligned with business objectives. </h4>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshshah123" alt="lokeshshah123" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshshah123&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshshah123" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshkshah" alt="lokeshkshah" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshkshah&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshkshah" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lokeshshah123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lokeshshah123" height="30" width="40" /></a>
+<a href="https://twitter.com/lokeshkshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lokeshkshah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lokesh-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-shah" height="30" width="40" /></a>
-<a href="https://medium.com/@lokeshshah123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lokeshshah123" height="30" width="40" /></a>
+<a href="https://medium.com/@lokeshkshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lokeshkshah" height="30" width="40" /></a>
 </p>
 <be>
 
@@ -77,7 +77,7 @@ With expertise in Data Integration, Data Quality, and Master Data using tools li
 </h3>
 
 <p>&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lokeshshah123&show_icons=true&locale=en&theme=radical" alt="lokeshshah123" />
-<img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshshah123&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lokeshkshah&show_icons=true&locale=en&theme=radical" alt="lokeshkshah" />
+<img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshkshah&theme=radical" />
 </p>
   
