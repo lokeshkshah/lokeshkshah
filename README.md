@@ -1,5 +1,9 @@
 <h1 align="center" style="color:blue;">Hi 👋, I'm Lokesh Shah</h1>
-<h2 align="left">a seasoned data professional with over 15 years of experience across various roles in the data landscape.</h2>
+
+<h2 align="center">a seasoned data professional with over 15 years of experience across various roles in the data landscape.</h2>
+
+<img align="right" alt= "meme" height="500" width="500" src="https://github.com/lokeshshah123/lokeshshah123/blob/c9439551af02822db79ad441b2bf2df5e7599f63/Assets/LokeshShah.jpeg">
+
 <h4 align="left">I've spearheaded numerous projects in various data management areas, working with global and multilingual data. These projects have not only generated significant cost savings for enterprises but have also garnered recognition at both internal and global platforms.</h4>
 <h4 align="left">Throughout my career, I've specialized in Data Quality, Integration, Governance, and Master Data Management across industries such as Telecom, Insurance, Retail, Manufacturing, and Oil & Gas, leveraging my expertise to drive impactful solutions tailored to the unique challenges of each domain. I've demonstrated a knack for translating complex data challenges into actionable strategies that yield tangible results </h4>
 
@@ -19,7 +23,7 @@ With expertise in Data Integration, Data Quality, and Master Data using tools li
 
 <h3 align="Left"> Languages and Tools:
 
-<table>
+<table background-color: #D6EEEE;>
  <tr >
     <td>
 
@@ -72,8 +76,8 @@ With expertise in Data Integration, Data Quality, and Master Data using tools li
 </table>
 </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshshah123&show_icons=true&locale=en&layout=compact" alt="lokeshshah123" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshshah123&show_icons=true&locale=en" alt="lokeshshah123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshshah123&" alt="lokeshshah123" /></p>
+<p>&nbsp;
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lokeshshah123&show_icons=true&locale=en&theme=radical" alt="lokeshshah123" />
+<img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshshah123&theme=radical" />
+</p>
+  
